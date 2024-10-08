@@ -8,3 +8,4 @@ ColorBox Component: A reusable React component that accepts a colour prop and di
 ColorBoxesContainer Component: A container component that renders a 5x5 grid (25 boxes in total) of ColorBox components. The initial colours are imported from a JavaScript file (data.js), where they are stored as an array of hexadecimal colour strings.
 
 Random Color Change: Clicking on any colour box triggers a random colour change.
+![Lab-3-Screenshot](https://github.com/user-attachments/assets/af7503a2-f0fe-44e6-bb1a-e562836151cb)
